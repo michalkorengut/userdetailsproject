@@ -1,0 +1,93 @@
+table {
+    width: 50%;
+  margin-bottom: 3% ;
+  margin-top:  4%;
+  }
+
+.removeAndUpdaeButtons{
+  background-color: rgb(26, 115, 232);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+
+
+}
+.myRequestPageTitle{
+  margin: 0 auto;
+  font-size: 130%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.btns{
+  width: 15%;
+  margin-bottom: 3%;
+  margin-left: 1%;
+  margin-right: 1%;
+  background-color:rgb(26, 115, 232);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+
+}
+.spiner{
+  margin-top: 13%;
+  margin-right: 3%;
+  color: primary;
+  color: rgb(26, 115, 232);
+
+}
+.emptyList{
+  margin: 0 auto;
+  font-size: 130%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.userDetails{
+  margin: 2%;
+}
+.pleaseWait{
+  margin-right:4% ;
+}
+td ,th ,.pleaseWait , p ,button,a,div {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.requestForAWebsite{
+ color:rgb(26, 115, 232);
+ position: fixed;
+ bottom: 10%;
+ right: 4%; 
+ width: 10%;
+ text-align: center;
+
+}
+.sendRrequestForAWebsiteBtn{
+  background-color:rgb(26, 115, 232);
+  color: white;
+  display:block;
+  /* margin-left:  auto; */
+  /* margin-right: 1.5%; */
+    width: 10%;
+    margin: 2%;
+    position: fixed;
+    bottom: 2%;
+    right: 2%; 
+
+}
+#sendIcon{
+  color: white;
+}
+#addRequestBtn{
+width: 50%;
+}
+.titleTable{
+  font-size: 110%;
+}
+/* .mat-tooltip{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+} */
+.removeUser{
+  text-decoration:underline;
+  color:rgb(26, 115, 232);
+}
+.divRemoveUser{
+  margin: 2%;
+}
